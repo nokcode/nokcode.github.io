@@ -12,7 +12,7 @@ feed:
   excerpt_only: true
 
 # Build settings
-theme: nokcode-theme
+remote_theme: nokcode/nokcode-theme
 plugins:
   - jekyll-feed
   - jekyll-tidy
