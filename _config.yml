@@ -1,0 +1,18 @@
+title: nokcode
+author: Rafael Ribeiro
+email: "&#110;&#111;&#107;&#99;&#111;&#100;&#101;&#56;&#54;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nokcode.tk"
+twitter_username: nokcode
+github_username: nokcode
+linode_referral_code: 19f79f789b69cb1ef4cc120b48416e992069112b
+google_analytics: UA-160289171-1
+
+feed:
+  excerpt_only: true
+
+# Build settings
+theme: nokcode-theme
+plugins:
+  - jekyll-feed
+  - jekyll-tidy
